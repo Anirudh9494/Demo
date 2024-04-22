@@ -9,7 +9,7 @@
     <server>
       <id>github</id>
       <username>Anirudh9494</username>
-      <password>${Git_Secret}</password>
+      <password>Amsterdam@2024</password>
     </server>
   </servers>
 
@@ -19,7 +19,7 @@
       <repositories>
         <repository>
           <id>github</id>
-          <url>https://github.com/Anirudh9494/Demo-Uploads/security/secret-scanning/unblock-secret/2fRU8vmd9hmIgu3bgiND7DEqCc</url>
+          <url>https://github.com/Anirudh9494/Demo-Uploads</url>
           <releases>
             <enabled>true</enabled>
           </releases>
