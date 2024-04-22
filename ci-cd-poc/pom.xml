@@ -13,7 +13,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<app.runtime>4.6.1</app.runtime>
 		<mule.maven.plugin.version>4.1.0</mule.maven.plugin.version>
-		<app.name>Demo</app.name>
+		<app.name>ci-cd-poc</app.name>
 		<env>Sandbox</env>
 	</properties>
 	<build>
