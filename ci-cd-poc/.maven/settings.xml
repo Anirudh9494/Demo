@@ -19,7 +19,7 @@
       <repositories>
         <repository>
           <id>github</id>
-          <url>https://maven.pkg.github.com/Anirudh9494/Demo-Uploads</url>
+          <url>https://github.com/Anirudh9494/Demo/security/secret-scanning/unblock-secret/2fRU8vmd9hmIgu3bgiND7DEqCcj</url>
           <releases>
             <enabled>true</enabled>
           </releases>
